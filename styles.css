@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif, Helvetica, sans-serif;
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/156/125/163/3-316-16-9-aspect-ratio-s-sfw-wallpaper-preview.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  div {
+    width: 20%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  button {
+    width: 100%;
+    margin: 10px 0px 5px 0px;
+  }
